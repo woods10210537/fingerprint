@@ -1,0 +1,16 @@
+NFC：Near Field Communication
+‧ RFID強調的是ID辨識與資料儲存
+‧ NFC是以RFID技術為基礎所發展，可以
+與現在的智慧卡系統相容
+‧ NFC由NXP公司所發起開發
+‧ NFC強調的是資料交換與分享(IOT的核心精神)
+
+
+http://arduino.tw/allarticlesindex/bt-rfid-xbee-ir/53-rfid-reader-__.html
+
+
+http://playground.arduino.cc/Learning/PRFID
+
+
+https://sites.google.com/site/jonasdigiclass/gong-zuo-ji-lu/rfidxieruziliaodaokapian
+
